@@ -6,7 +6,6 @@ We are a diverse group of software engineering and data science professionals fr
 
 Inspired by the [collaborative culture of artificial neural network research](https://www.untapt.com/industry/2016/08/02/deep-learning-study-group/), we hold regular, chilled beverage-enhanced study sessions in midtown Manhattan. At these meetings, we summarise prescribed preparatory material and leverage our individual strengths in computer science, mathematics, statistics, neuroscience, and venture capital to cement our comprehension of concepts and to implement effective deep learning models. 
 
-![smile and wave](https://github.com/the-deep-learners/study-group/blob/master/wiki-resources/session_XI_crew.JPG)
 
 Over the course of our sessions, we follow three parallel paths: 
 
@@ -14,7 +13,6 @@ Over the course of our sessions, we follow three parallel paths:
 2. **Application**: We practice deep learning in the real world. We typically commence by collectively following tutorials then we move on to solving novel and illustrative data problems involving a broad range of techniques. In addition to incorporating deep learning into our respective academic and commercial applications, we commit code to the present, public repository where possible. 
 3. **Presentations**: Study group members regularly share their progress on Deep Learning projects and their area of expertise. This elicits novel discourse outside of the relatively formal paths **1** and **2**, playfully encouraging along serendipity. 
 
-![jk1](https://github.com/the-deep-learners/study-group/blob/master/wiki-resources/3.jpg)
 
 
 ## Theory
@@ -41,7 +39,6 @@ If you're looking to get a handle on the fundamentals of Deep Learning, check ou
 
 Our applications have involved a broad range of neural network architectures built largely in Python with [Numpy](https://github.com/the-deep-learners/study-group/tree/master/nn-from-scratch), [TensorFlow, and/or Keras](https://insights.untapt.com/fundamental-deep-learning-code-in-tflearn-keras-theano-and-tensorflow-66be10a03227). 
 
-![claudia](https://github.com/the-deep-learners/study-group/blob/master/wiki-resources/IMG_7641.JPG)
 
 ## Presentations
 
@@ -62,7 +59,6 @@ In chronological order, we have experienced the joy of being enlightened by:
 9. [Marianne Monteiro](https://www.linkedin.com/in/mariannelinharesm/) on TensorFlow Recurrent Neural Network implementations (*session XIII*)
 10. [Druce Vertes](https://www.linkedin.com/in/drucevertes/) on predicting which financial stories go viral on social media (*session XIII*)
 
-![katya](https://github.com/the-deep-learners/study-group/blob/master/wiki-resources/IMG_5974.JPG)
 
 ***
 
@@ -91,7 +87,6 @@ Click through for detailed summary notes from each session:
 
 # Acknowledgements
 
-![classic Ed Donner](https://github.com/the-deep-learners/study-group/blob/master/wiki-resources/5_cropped.jpg)
 
 Thank you to [untapt](https://www.untapt.com/) and its visionary, neural net-loving CEO Ed Donner for hosting and subsidising all meetings of the Deep Learning Study Group. 
 
@@ -100,6 +95,5 @@ Thank you to [untapt](https://www.untapt.com/) and its visionary, neural net-lov
 
 *With a desire to remain intimately-sized, our study group has reached its capacity. If you'd like to be added to our waiting list, please contact the organiser, [Jon Krohn](https://www.jonkrohn.com/contact/), describing your relevant experience as well as your interest in deep learning. We don't expect you to necessarily be a deep learning expert already :)*
 
-![Jon Krohn](https://github.com/the-deep-learners/study-group/blob/master/wiki-resources/IMG_5959.JPG)
 
 ***
